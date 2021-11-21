@@ -14,7 +14,7 @@ In this exercise, you will be revisiting a making practice and envisioning shari
 
 Note that our two examples above (Digital Pedagogy and DataSitters) use the two recommended platforms for sharing your lesson plan, Humanities Commons and GitHub Pages, respectively. Your post should include a link to your lesson with its embedded multimedia, and a brief reflection on your own process of designing the lesson and its visual communication structure.
 
-## Communities and Platforms
+## Some Helpful Resources
 
 As discussed in this week's video, you have several options for sharing your lesson plan: this can be both a way to think about pedagogy in the context of community and to add another tool to your making experience. Consider choosing a method that is associated with your primary research community - Humanities Commons is a transdisciplinary humanities space; while GitHub is more commonly used in digital media, data-driven work, and digital humanities contexts.
 
