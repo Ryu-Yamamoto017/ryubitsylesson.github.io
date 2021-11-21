@@ -1,6 +1,6 @@
-# Exercise Thirteen: Lesson
+# Learning: Bitsy
 
-Now that we are nearing the end of the semester and looking ahead towards future applications of our experiments, we'll be engaging in a different type of "making": designing a lesson plan. This week, you will be crafting a lesson of your own design that intentionally combines theory, practice, and reflection on process (or, as I've set it up throughout our semester, think/make/reflect). Choose any combination of the tools and types of making we've worked with, and feel free to add your own or remix: the focus is not on the tool-technology, but on the act of critical making, and the use of pedagogy to create a space for others to critique, reflect, and engage technology differently.
+In this unit you will be creating a game with Bitsy (https://medium.com/@cavegift/https-medium-com-cavegift-bitsy-is-a-tiny-toolset-4016814c5367). It is a simple, yet suprising game making tool that has the potential to create powerful interactive experiences 
 
 ## The Lesson Prompt
 
