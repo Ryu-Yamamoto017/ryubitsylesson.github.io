@@ -19,7 +19,7 @@ When you complete your Bitsy adventure, you will post it to the class discussion
 
 ## Some Helpful Resources
 
-Below are other helpful links to videos and examples for creating your Bitsy game:
+Below are other helpful links to videos and examples for creating your Bitsy adventure:
 
 - [Youtube](https://youtube.com/) - Dan Cox has made a useful series of videos for getting started. For using Bitsy Interface (https://www.youtube.com/watch?v=ua1aScmceXc&list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm). For suggetion in using colors (https://www.youtube.com/watch?v=Efpk_XJTyfw&list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm&index=2)
 
