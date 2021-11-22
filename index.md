@@ -23,5 +23,5 @@ Below are other helpful links to videos and examples for creating your Bitsy adv
 
 - [Youtube](https://youtube.com/) - Dan Cox has made a useful series of videos for getting started. For using Bitsy Interface (https://www.youtube.com/watch?v=ua1aScmceXc&list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm). For suggetion in using colors (https://www.youtube.com/watch?v=Efpk_XJTyfw&list=PLlXuD3kyVEr5sF4iM2CszNt-fSVZDqxUm&index=2)
 
-- [Itch.io](https://itch.io/) - For interactive examples hewre are links to some games made by Bitsy. (https://samkeeper.itch.io/moth)(https://haraiva.itch.io/continental-drift)
+- [Itch.io](https://itch.io/) - For interactive examples here are links to some games made by Bitsy. A Moth Batters Against Glass(https://samkeeper.itch.io/moth) Continental Drift(https://haraiva.itch.io/continental-drift)
 
